@@ -88,15 +88,13 @@ python manage.py runserver
 
 Este projeto foi desenvolvido como atividade prática da disciplina de **Manutenção de Software**, com foco em:
 
-- Estruturação de projetos Django
+- Estruturação de projetos Django com Class-based Views (CBVs)
 - Implementação de APIs REST
 - Organização modular de aplicações
-- Boas práticas de versionamento com Git
-- Documentação de software
 
 ## Autor
 
-**Alexandre Ribeiro** - [alexrbss](https://github.com/alexrbss)
+**Rubens Alexandre de Sousa** - [alexrbss](https://github.com/alexrbss)
 
 ---
 
